@@ -28,6 +28,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'rb-readline'
+gem 'bootstrap', '~> 4.4.1'
+gem 'jquery-rails'
+gem 'devise-bootstrap-views', '~> 1.0'
+gem 'iex-ruby-client'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
